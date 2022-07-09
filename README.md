@@ -46,6 +46,14 @@ This project helped me get more comfortable with Flexbox. Flexbox works on the d
     </div>
 </body>
 ```
+```css
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+```
 Also got to understand in detail how margins and paddings help to position and style elements. For example the code below can be used to center an element.
 ```css
 .container {
