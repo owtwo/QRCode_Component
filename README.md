@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot](./qr-code-component-screenshot.jpg)
+![Screenshot](img\qr-code-component-screenshot.jpeg)
 
 ### Links
 
@@ -36,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-This project helped me get more comfortable with Flexbox. Flexbox works on the direct child of a parent element not the other descendants. For example in the code below Flebox only targeted the <div> element and not the other elements contained in the <div>.
+This project helped me get more comfortable with Flexbox. Flexbox works on the direct child of a parent element not the other descendants. For example in the code below Flebox only targeted the div element and not the other elements contained in the div.
 ```html
 <body>
     <div class="container">
@@ -46,7 +46,7 @@ This project helped me get more comfortable with Flexbox. Flexbox works on the d
     </div>
 </body>
 ```
-Also got understand in detail how margins and paddings help to position and style elements. For example the code below can be used to center an element.
+Also got to understand in detail how margins and paddings help to position and style elements. For example the code below can be used to center an element.
 ```css
 .container {
  margin: 0 auto;
